@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>Support - ScoreKings</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9fb;
+        }
+        .container {
+            background: white;
+            padding: 30px 20px;
+            border-radius: 12px;
+            border: 1px solid #e1e4e8;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        h1 { color: #1e3f6d; font-size: 24px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
+        h2 { color: #1e3f6d; margin-top: 30px; font-size: 18px; border-left: 4px solid #BA0C2F; padding-left: 15px; }
+        p, li { font-size: 15px; color: #4a4a4a; }
+        .highlight-box { background-color: #f1f4f8; padding: 15px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1e3f6d; }
+        strong { color: #111; }
+        .contact-button {
+            display: inline-block;
+            background-color: #1e3f6d;
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .contact-button:hover { background-color: #162e50; }
+        .footer-info { margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; font-size: 13px; color: #888; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SCOREKINGS SUPPORT</h1>
+        <p>How can we help you today? Our team is dedicated to ensuring you have the best experience with our skill-based analytical contests.</p>
+
+        <div class="highlight-box">
+            <strong>Response Time:</strong> We typically respond to all support inquiries within 24 hours. For immediate technical issues, please check your internet connection and ensure your app is updated to the latest version.
+        </div>
+
+        <h2>1. COMMON SUPPORT TOPICS</h2>
+        <ul>
+            <li><strong>Account Access:</strong> Assistance with login, password resets, or account verification.</li>
+            <li><strong>Wallet & Credits:</strong> Questions regarding Stripe deposits, credit balances, or reward redemptions.</li>
+            <li><strong>Geofencing:</strong> Help with location services if you are physically in Georgia but unable to enter a contest.</li>
+            <li><strong>Technical Issues:</strong> Reporting bugs, app crashes, or display errors on the scoreboard.</li>
+        </ul>
+
+        <h2>2. HOW TO CONTACT US</h2>
+        <p>If you have a specific question about a contest entry or your ScoreKings wallet, please reach out via one of the methods below:</p>
+        
+        <p><strong>Email Support:</strong></p>
+        <a href="mailto:quintonlmills@gmail.com" class="contact-button">Email Support</a>
+        
+        <p style="margin-top: 20px;"><strong>SMS / Phone Support:</strong></p>
+        <p>For urgent account issues, you can reach us at: <strong>+1 (765) 271-3413</strong></p>
+
+        <h2>3. APP REVIEWER INFORMATION</h2>
+        <p>If you are an Apple App Reviewer requiring specific testing credentials or have questions regarding our compliance with regional regulations, please contact the lead developer directly at the email provided above.</p>
+
+        <div class="footer-info">
+            <p>&copy; 2026 ScoreKings. All rights reserved.<br>
+            Smyrna, Georgia, USA</p>
+        </div>
+    </div>
+</body>
+</html>
